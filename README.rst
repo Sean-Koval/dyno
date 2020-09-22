@@ -1,15 +1,20 @@
 ====
-dyno
+###dyno
 ====
 
 
-Add a short description here!
+This a strategy back-test and deployment engine.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+This package is not meant for strategy creation or feature discovery.
+(For proper strategy development see openquant!)
+
+This package should be used for back-testing strategies to ensure proper functionality
+and measure performance.  The package can also be used to deploy the trading strategies
+on various brokerages.
 
 
 Note
