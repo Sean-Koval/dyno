@@ -60,13 +60,13 @@ npm test
 * 0.0.1
     * Work in progress
 
-## Meta
+## Community
 
 Sean Koval – [@seankoval](https://twitter.com/home?lang=en) – seanmkoval@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[Check out my Git-Hub](https://github.com/Sean-Koval)
+[Check out my openquant!](https://github.com/Open-Quant/openquant)
 
 ## Contributing
 
