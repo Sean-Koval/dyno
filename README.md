@@ -66,7 +66,7 @@ Sean Koval – [@seankoval](https://twitter.com/home?lang=en) – seanmkoval@gma
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/Sean-Koval)
+[Check out my Git-Hub](https://github.com/Sean-Koval)
 
 ## Contributing
 
