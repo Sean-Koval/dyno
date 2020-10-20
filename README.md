@@ -8,7 +8,7 @@
 Back-tester:
     This should be utilized as a means for measuring the effectiveness
     of the feature discovery and strategy development process. This should
-    NOT be a means for strategy development. (For strategy creation check out openquant!)
+    NOT be a means for strategy development. (For strategy creation check out OpenQuant!)
 
 Trade-engine:
     This is meant ton execute trades, handle orders, and serve as a means for
@@ -66,7 +66,7 @@ Sean Koval – [@seankoval](https://twitter.com/home?lang=en) – seanmkoval@gma
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[Check out my openquant!](https://github.com/Open-Quant/openquant)
+[Check out my OpenQuant!](https://github.com/Open-Quant/openquant)
 
 ## Contributing
 

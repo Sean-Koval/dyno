@@ -10,7 +10,7 @@ from math import floor
 from dyno.event import FillEvent, OrderEvent
 
 from dyno.performance import create_sharpe_ratio, create_drawdowns
-
+# we will seperate later
 class Portfolio(object):
     """
     The Portfolio class handles the positions and market
