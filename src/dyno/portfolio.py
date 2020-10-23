@@ -118,7 +118,7 @@ class NaivePortfolio(Portfolio):
         dh['cash'] = self.current_holdings['cash']
         dh['commission'] = self.current_holdings['commission']
         dh['total'] = self.current_holdings['cash']
-
+print()""   
         for s in self.symbol_list:
             # Approximation to the real value
             market_value = self.current_positions[s] * bars[s][0][5]
