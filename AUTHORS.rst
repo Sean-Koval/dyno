@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Sean Koval <sean@capitalprawn.com>
+* Sean Koval <seanmkoval@gmail.com>
