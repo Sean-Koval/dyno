@@ -1,10 +1,6 @@
 # dyno
 > Back-testing and deployment engine.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Back-tester:
     This should be utilized as a means for measuring the effectiveness
     of the feature discovery and strategy development process. This should
